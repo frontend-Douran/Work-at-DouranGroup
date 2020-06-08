@@ -2,19 +2,15 @@ This task is not meant to be a hard task, it is meant to gain some insight into 
 
 We expect you to write the application as an app, and preferrably ReactJs.
 
-**Task :**
+## Task 
 
 1.Create an app from a template or from scratch.
-
 2.Build admin dashboard(just build some charts and a table). 
-
 3.Use an API for real charts data and real tables data.
 
 
-**Optional Tasks** :
+## Optional Tasks
 
 • Make cool design for this!
-
 • Make unit tests for the code.
-
 • Make the sortable or searchable.
