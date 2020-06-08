@@ -7,7 +7,8 @@ We expect you to write the application as an app, and preferrably ReactJs.
 #Task :
 
 1.Create an app from a template or from scratch.
-2.Build admin dashboard(just build some charts and a table).
+
+2.Build admin dashboard(just build some charts and a table). 
 3.Use an API for real charts data and real tables data.
 
 #Optional Tasks :
