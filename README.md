@@ -1,4 +1,4 @@
-This task is not meant to be a hard task, it is meant to gain some insight into candidates way of working and thinking. Therefore the level of ambition is very open to you. Recommended time frame is 2-3 hours. Feel free to use online resources or IDE to solve the problem, as long as you do not just copy-paste code. Libraries and similar is all fine to use.
+This task is not meant to be a hard task, it is meant to gain some insight into candidates way of working and thinking. Therefore the level of ambition is very open to you. Recommended time frame is 2 days. Feel free to use online resources or IDE to solve the problem, as long as you do not just copy-paste code. Libraries and similar is all fine to use.
 
 We expect you to write the application as an app, and preferrably ReactJs.
 
